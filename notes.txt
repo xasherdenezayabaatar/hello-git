@@ -1,3 +1,5 @@
 My initial thoughts are that I am doing this at the last minute and am a bit ashamed of that.
 Besides that I also wonder if learning the terminal commands are necessary,
 because I can just clone a repo using VS Code's GUI so I don't see the point of this.
+
+Summary: I'm late and I'm curious whether this is necessary to learn.
